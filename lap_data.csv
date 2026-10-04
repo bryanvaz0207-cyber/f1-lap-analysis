@@ -1,0 +1,11 @@
+driver,lap_number,lap_time,tyre
+Driver A,1,92.4,Soft
+Driver A,2,91.8,Soft
+Driver A,3,91.5,Soft
+Driver A,4,91.7,Soft
+Driver A,5,92.0,Soft
+Driver B,1,93.1,Medium
+Driver B,2,92.6,Medium
+Driver B,3,92.2,Medium
+Driver B,4,92.4,Medium
+Driver B,5,92.8,Medium
